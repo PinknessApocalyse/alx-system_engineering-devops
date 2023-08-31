@@ -1,1 +1,1 @@
-A README FILE THAT IS NOT EMPTY LOL :)
+this script pint out abslute path name of current directory
